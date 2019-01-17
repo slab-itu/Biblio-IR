@@ -1,1 +1,1 @@
-This folder contains data and code to reproduce the analysis presented in manuscript "A Novel Deep Learning-based Feature Engineering Approach for Algorithm Searching from Full-text Scientific Literature: Leaping forward to Bibliometric-enhanced Information Retrieval" submitted to Scientometrics journal.
+This folder contains data and code to reproduce the analysis presented in manuscript "Bibliometric-enhanced Information Retrieval: A Novel Deep Feature Engineering Approach for Algorithm Searching from Full-text Publications" submitted to Scientometrics journal.
